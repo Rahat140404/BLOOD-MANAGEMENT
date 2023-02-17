@@ -1,2 +1,2 @@
 # BloodDonationManagementSystem
-gcgycg achkaCHK HCaCH
+#gcgycg achkaCHK HCaCH
